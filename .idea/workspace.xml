@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9563abe-64ae-4af6-8938-dcfef7d3932b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Aula02/Aula02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula05/Aula05.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula4/Aula4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratica1/pratica1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +19,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-22 (2)",
-    "last_opened_file_path": "C:/DDD-Java"
+    "last_opened_file_path": "C:/DDD-Java/Aula07"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
